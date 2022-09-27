@@ -1,0 +1,22 @@
+Transactionid,Date,Type,Status,Price,Volume,Name
+1,10/10/2021,Bonds,Purchased,310.69,10,US Govt Class Sankriti
+2,08/03/2021,Fund,Purchased,3000.00,100,Sankriti Spr Fund
+3,09/09/2021,Stocks,Purchased,650.00,1,ADBE
+4,02/02/2022,Bonds,Sold,500.00,10,US Govt Class Sankriti
+5,07/02/2022,Fund,Sold,2900,100,Sankriti Spr Fund
+6,08/02/2022,Fund,Purchased,3200,100,Sankriti Deluxe Saver
+7,09/02/2022,Bonds,Purchased,50000,10000,UK Govt Class B
+8,11/02/2022,Bonds,Sold,1000,200,UK Govt Class B
+9,14/02/2022,Stocks,Purchased,2950,10,MSFT
+10,14/02/2022,Stocks,Purchased,1000,100,FRD
+11,15/02/2022,Stocks,Sold,800,100,FRD
+12,16/02/2022,Fund,Purchased,250.69,10,Sankriti Simple Saver
+13,16/02/2022,Stocks,Purchased,500,4,AAPL
+14,17/02/2022,Bonds,Sold,500,100,UK Govt Class B
+15,17/02/2022,Bonds,Purchased,600,10,US Govt Class Sankriti
+16,17/02/2022,Fund,Purchased,1000,45,Sankriti Spr Fund
+17,18/02/2022,Stocks,Sold,600,4,AAPL
+18,17/02/2022,Fund,Sold,1500,45,Sankriti Spr Fund
+19,20/02/2022,Stocks,Purchased,690,20,TSLA
+20,21/02/2022,Stocks,Purchased,420,10,QQQX
+21,21/02/2022,Stocks,Purchased,400,10,QQQX
