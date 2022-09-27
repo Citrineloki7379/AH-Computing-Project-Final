@@ -1,0 +1,19 @@
+@font-face{
+	font-family:'MetricaLight';
+	src: url('Metrica-Light.otf');
+}
+
+@font-face{
+	font-family:'BlankaRegular';
+	src: url('Blanka-Regular.otf');
+}
+
+@font-face{
+	font-family:'Celestia';
+	src: url('Celestia.otf');
+}
+
+@font-face{
+	font-family:'MajorMonoDisplay-Regular';
+	src: url('MajorMonoDisplay-Regular.ttf');
+}
